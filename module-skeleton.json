@@ -1,0 +1,15 @@
+{
+  "repository": "module-ecommerce-draft-and-assisted-orders-dart-mobile",
+  "capabilityKey": "planned:ecommerce:draft-and-assisted-orders",
+  "presentation": "dart-mobile",
+  "package": "module_ecommerce_draft_and_assisted_orders_dart_mobile",
+  "foundation": "module-boilerplate-dart-mobile",
+  "foundationCommit": "0656c212b36ef4f8ffd6fc74db4ac541268e7d31",
+  "canonicalPlan": "projects/ecommerce/nextjs/draft-and-assisted-orders.md",
+  "presentationPlan": "projects/ecommerce/features/draft-and-assisted-orders.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "ecommerce"
+  ]
+}
